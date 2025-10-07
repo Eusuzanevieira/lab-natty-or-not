@@ -28,6 +28,7 @@ Todo o conteúdo foi produzido **com ferramentas gratuitas de IA** e **roteiro g
 
 ## 🚀 Resultados
 🎬 **Vídeo:** “Intro Podcast — Voz Artificial, Ideias Naturais”  
+https://drive.google.com/file/d/12q4hrW7FMzwM2OwFe0v8sV2X_MTdLShb/view?usp=drive_link
 ⏱️ **Duração:** 10 segundos  
 🗂️ **Arquivo:** `video/Video Focus cast IA.mp4`  
 

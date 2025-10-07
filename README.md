@@ -1,51 +1,57 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🎙️ Projeto: Voz Artificial, Ideias Naturais — #LabDIONattyOrNot
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é uma **intro de 10 segundos** para um futuro **podcast criado com Inteligência Artificial**, unindo **voz e personagem gerados por IA**.  
+O objetivo é testar até que ponto conteúdos artificiais podem parecer **naturais e humanos**, dentro da proposta *Natty or Not* da DIO.  
+
+O resultado final é um **vídeo curto e estético**, apresentando uma narradora virtual que introduz o tema do podcast.  
+Todo o conteúdo foi produzido **com ferramentas gratuitas de IA** e **roteiro gerado com ajuda do ChatGPT**.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT (OpenAI)** → Criação do roteiro e falas da narradora  
+- **CapCut (modo gratuito)** → Geração da personagem de IA (avatar virtual) e montagem do vídeo  
+- **IA Voice Over (versão gratuita)** → Criação da voz natural da personagem  
+- **GitHub** → Publicação e documentação do projeto  
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+---
+
+## 🧩 Processo de Criação
+1. ✍️ Criei o roteiro do episódio com o auxílio do **ChatGPT**, buscando uma fala natural e reflexiva.  
+2. 🎙️ Usei o **IA Voice Over (gratuito)** para gerar a voz da narradora com entonação realista.  
+3. 🎥 No **CapCut (modo gratuito)**, criei uma **personagem IA** sincronizando com a narração.  
+4. 🔉 Ajustei tempo, trilha e legenda para deixar o resultado mais fluido e natural.  
+5. 💾 Exportei o vídeo final com 10 segundos e adicionei ao repositório GitHub.
+
+---
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+🎬 **Vídeo:** “Intro Podcast — Voz Artificial, Ideias Naturais”  
+⏱️ **Duração:** 10 segundos  
+🗂️ **Arquivo:** `/video/intro-podcast-voz-artificial.mp4`  
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O vídeo apresenta uma **voz e uma persona totalmente geradas por IA**, que introduzem o conceito de um podcast sobre o impacto da inteligência artificial na criatividade humana.  
+O público é convidado a decidir:  
+> 🤔 *“Será que essa voz e esse rosto são reais… ou apenas mais um Fake Natty?”*
 
-### Exemplos e Insigths
+---
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão
+Mesmo utilizando apenas versões gratuitas das ferramentas, o resultado foi surpreendentemente natural.  
+O processo mostrou que **a criatividade humana e o poder das IAs generativas** podem se unir para criar conteúdo expressivo e autêntico.  
+O maior aprendizado foi perceber que **a naturalidade está no contexto e na intenção**, não apenas na origem da voz ou da imagem.
 
-## Links Interessantes
+---
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+## 🔗 Conecte-se
+📎 Repositório base da DIO: [digitalinnovationone/lab-natty-or-not](https://github.com/digitalinnovationone/lab-natty-or-not)  
+📲 Compartilhe nas redes com **#LabDIONattyOrNot**  
+👤 Marque: **@falvojr** e **@digitalinnovationone**
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+---
+
+## 🧠 Créditos
+Desafio criado por **DIO (Digital Innovation One)**  
+Roteiro gerado com **ChatGPT**  
+Vídeo produzido por **Suzane Vieira** 🎧✨

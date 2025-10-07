@@ -29,7 +29,7 @@ Todo o conteúdo foi produzido **com ferramentas gratuitas de IA** e **roteiro g
 ## 🚀 Resultados
 🎬 **Vídeo:** “Intro Podcast — Voz Artificial, Ideias Naturais”  
 ⏱️ **Duração:** 10 segundos  
-🗂️ **Arquivo:** `/video/intro-podcast-voz-artificial.mp4`  
+🗂️ **Arquivo:** `video/Video Focus cast IA.mp4`  
 
 O vídeo apresenta uma **voz e uma persona totalmente geradas por IA**, que introduzem o conceito de um podcast sobre o impacto da inteligência artificial na criatividade humana.  
 O público é convidado a decidir:  
